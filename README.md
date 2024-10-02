@@ -11,7 +11,7 @@ I'm a passionate **Software Engineer** and **Computer Science major** at Albion 
 
 ## 💼 Experience
 
-- **Software Engineering Intern** @ Black and Rossi (Remote, Texas)  
+- **Software Engineering Intern** @ Black and Rossi   
   Collaborated on a logistics resource calculator, utilizing **Django Rest Framework**, **JavaScript**, **HTML**, and **MySQL**, resulting in a 90% improvement in speed and efficiency.
   
 - **IT Student Worker** @ Albion College  
