@@ -33,9 +33,9 @@ I'm a passionate **Software Engineer** and **Computer Science major** at Albion 
 
 ## 🔧 Tech Stack
 
-- **Languages**: Python, Java, JavaScript, HTML/CSS, SQL  
-- **Frameworks**: Django, Flask, React, Node.js  
-- **Tools**: Git, GitHub, IntelliJ, PyCharm, AWS, Linux, Jupyter Notebooks  
+- **Languages**: Python, Java, JavaScript, TypeScript, HTML/CSS, SQL  
+- **Frameworks**: Django, Flask, React, Next.js, Tailwind, Bootstrap, DaisyUI 
+- **Tools**: Git, GitHub, IntelliJ, PyCharm, AWS, Linux, Jupyter Notebooks, Firebase, Supabase  
 - **APIs**: Google APIs (Maps, Geocoding), Multimodal Gemini API  
 
 ## 🌱 What I'm Learning
@@ -50,4 +50,5 @@ I'm constantly learning and improving my knowledge in:
 
 - [LinkedIn](https://www.linkedin.com/in/arnold-waigwa/)
 - [Email](mailto:waigwaarnold@gmail.com)
+- [Website](https://arnoldsportfolio.netlify.app/)
 
