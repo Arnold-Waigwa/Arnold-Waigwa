@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Arnold Waigwa!
 
-I'm a passionate **Software Engineer** and **Computer Science major** at Albion College, graduating in May 2026. With a focus on **Artificial Intelligence, Machine Learning,** and **Software Development**, I love building impactful tech solutions and contributing to the open-source community. I am also minoring in **Applied Mathematics**, which helps me bring a solid analytical approach to every problem I tackle.
+I'm a passionate **Software Engineer** and **Computer Science major** at Albion College, graduating in December 2026. With a focus on **Artificial Intelligence, Machine Learning,** and **Software Development**, I love building impactful tech solutions and contributing to the open-source community. I am also minoring in **Applied Mathematics**, which helps me bring a solid analytical approach to every problem I tackle.
 
 ## 🚀 About Me
 
