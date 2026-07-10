@@ -5,8 +5,8 @@ I'm a passionate **Software Engineer** and **Computer Science major** at Albion 
 ## 🚀 About Me
 
 - 💻 **Software Engineering Intern** at **Black and Rossi**: I developed a logistics resource calculator with an 80% efficiency boost.
-- 🛠 **IT Student Worker** at Albion College: I handled IT infrastructure and troubleshooting for over 100 users.
-- 🎓 **Teaching Assistant** for Java programming: I helped students increase their programming skills by 75%.
+- 🛠 **IT Systems Engineer** at Albion College: I handled IT infrastructure and troubleshooting for over 100 users.
+- 🎓 **Software Engineering Tutor** for Java programming: I helped students increase their programming skills by 75%.
 - 👨‍💻 I’m currently diving deep into **AI-powered applications** and **backend systems** using **Python**, **Django**, and **Google APIs**.
 
 ## 💼 Experience
@@ -14,10 +14,10 @@ I'm a passionate **Software Engineer** and **Computer Science major** at Albion 
 - **Software Engineering Intern** @ Black and Rossi   
   Collaborated on a logistics resource calculator, utilizing **Django Rest Framework**, **JavaScript**, **HTML**, and **MySQL**, resulting in a 90% improvement in speed and efficiency.
   
-- **IT Student Worker** @ Albion College  
+- **IT Systems Engineer** @ Albion College  
   Provided troubleshooting support for 100+ users, improving infrastructure efficiency by ensuring up-to-date systems and workstations.
 
-- **Teaching Assistant** @ Albion College  
+- **Software Engineering Tutor** @ Albion College  
   Assisted in Java programming courses, helping students improve their object-oriented programming skills through one-on-one tutoring and project debugging.
 
 ## 💡 Projects
